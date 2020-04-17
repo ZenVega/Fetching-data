@@ -1,0 +1,62 @@
+logintime: Fri Apr 17 2020 12:50:50 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50950566098219 ; 
+longitude: 13.456010013085107;logintime: Fri Apr 17 2020 12:56:11 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952564531428 ; 
+longitude: 13.456060468686731; 
+ 
+logintime: Fri Apr 17 2020 12:56:12 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952564531428 ; 
+longitude: 13.456060468686731; 
+ 
+logintime: Fri Apr 17 2020 12:56:12 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952061478185 ; 
+longitude: 13.456047636414512; 
+ 
+logintime: Fri Apr 17 2020 12:56:12 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952229915271 ; 
+longitude: 13.456053575928589; 
+ 
+logintime: Fri Apr 17 2020 12:56:13 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952235626173 ; 
+longitude: 13.456053777482225; 
+ 
+ 
+ logintime: Fri Apr 17 2020 13:02:03 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952366214494 ; 
+longitude: 13.456046368374897; 
+ 
+ logintime: Fri Apr 17 2020 13:02:04 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952366653325 ; 
+longitude: 13.456046600792058; 
+ 
+ logintime: Fri Apr 17 2020 13:02:05 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952366674092 ; 
+longitude: 13.45604661172974; 
+ 
+ logintime: Fri Apr 17 2020 13:02:05 GMT+0200 (Central European Summer Time); 
+ latitude: 52.509523666876476 ; 
+longitude: 13.456046618878121; 
+ 
+ logintime: Fri Apr 17 2020 13:02:06 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952366680035 ; 
+longitude: 13.456046614863782; 
+ 
+ logintime: Fri Apr 17 2020 13:08:08 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50952003685038 ; 
+longitude: 13.456102632679567; 
+ 
+ logintime: Fri Apr 17 2020 13:11:02 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50947469352448 ; 
+longitude: 13.456016719171485; 
+ 
+ logintime: Fri Apr 17 2020 13:11:04 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50947469352448 ; 
+longitude: 13.456016719171485; 
+ 
+ logintime: Fri Apr 17 2020 13:11:05 GMT+0200 (Central European Summer Time); 
+ latitude: 52.509475181748684 ; 
+longitude: 13.456018700147; 
+ 
+ logintime: Fri Apr 17 2020 13:18:08 GMT+0200 (Central European Summer Time); 
+ latitude: 52.50954229942401 ; 
+longitude: 13.456074293307939; 

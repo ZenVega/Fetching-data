@@ -1,0 +1,21 @@
+{
+  "name": "working_node",
+  "version": "1.0.0",
+  "description": "lerning to work with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "api",
+    "node"
+  ],
+  "author": "Zen Vega",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.3"
+  }
+}
